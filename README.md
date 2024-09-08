@@ -25,7 +25,10 @@ To start your AI chat session, follow these simple steps:
 3. Navigate to the directory containing the `go.bat` file.
 4. Type `go` and press Enter.
 
-That's it! You're now ready to start chatting with your AI assistant.
+That's it! You're now ready to start chatting with your AI assistant.*
+
+NOTE:  If you haven't added a "GROQ_API_KEY" to your environment variables, you'll be prompted to enter one.
+Get yours FREE at:  https://console.groq.com/keys
 
 ## How to Use
 
