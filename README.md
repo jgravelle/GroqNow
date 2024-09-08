@@ -6,6 +6,9 @@ Welcome to GroqNow, your gateway to effortless AI-powered conversations using Gr
 
 GroqNow is a streamlined tool that leverages the power of Groq™ AI and our custom PocketGroq library to provide you with an instant, interactive chat experience. It's designed for simplicity and ease of use, allowing you to explore the capabilities of AI without any complex setup or configuration.
 
+![image](https://github.com/user-attachments/assets/9d1c57b1-ee00-4a5b-9c03-8f2810984926)
+
+
 ## Features
 
 - **One-Command Startup**: Launch your AI chat session with a single command.
